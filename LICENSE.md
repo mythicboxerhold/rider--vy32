@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with exclusive JetBrains Rider for PC | JetBrains Rider for Windows Tool | intelligent-suggestions + plugin-system,
 
 
 
